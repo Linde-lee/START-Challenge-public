@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+transformers
+torch
+sentencepiece
+farm-haystack[inference]
